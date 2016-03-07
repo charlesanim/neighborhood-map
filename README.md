@@ -9,8 +9,6 @@ NFL, NHL, and MLS). (Why yes, that is a big neighborhood...) We get location dat
 and photos from Foursquare and articles from the NY Times. The stadium list can
 be searched by stadium name or teams and can be filtered by sport.
 
-Marker/filter icons were created by me in Sketch.
-
 ## Installation
 
 1. Download the repo.
