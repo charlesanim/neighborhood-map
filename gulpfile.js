@@ -83,7 +83,7 @@ gulp.task('watch', function() {
 });
 
 // Prepare for actual dist, clean the directory, then build and minify
-// everything.
+// everything
 gulp.task('build', ['clean'], function() {
   gulp.start('moveimages', 'movelibcss', 'movelibjs', 'minifyhtml',
               'sass', 'minifyjs');
