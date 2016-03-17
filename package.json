@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/6stringbeliever/neighborhood-map.git"
+    "url": "https://github.com/charlesanim/neighborhood-map.git"
   },
   "keywords": [
     "map",
     "googlemap",
     "knockout"
   ],
-  "author": "Shaun Kelly @6stringbeliever",
+  "author": "Shaun Kelly @charlesanim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/6stringbeliever/neighborhood-map/issues"
+    "url": "https://github.com/charlesanim/neighborhood-map/issues"
   },
-  "homepage": "https://github.com/6stringbeliever/neighborhood-map",
+  "homepage": "https://github.com/charlesanim/neighborhood-map",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-jshint": "^1.9.0",
