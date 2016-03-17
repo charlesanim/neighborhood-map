@@ -1,4 +1,4 @@
-# American Stadiums Map
+# American Stadiums Map.
 
 [View the project live.](http://napster499.github.io/neighborhood-map/)
 
